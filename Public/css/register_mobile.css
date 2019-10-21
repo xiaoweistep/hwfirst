@@ -1,0 +1,24 @@
+@media (max-width: 499px){
+    .register_page>.content{
+        padding: 80px 10px 50px;
+    }
+    .input{
+        min-width: 260px!important;
+        max-width: 300px!important;
+        width: auto!important;
+    }
+    .checkbox_li{
+        width: 260px!important;
+    }
+    .spanTxt{
+        min-width: 260px!important;
+        max-width: 300px!important;
+        width: auto!important;       
+    }
+    .register_page .content ul li{
+        max-width: 260px;
+    }
+    .country{
+        max-width: 260px;
+    }
+}

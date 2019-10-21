@@ -1,0 +1,487 @@
+@media (max-width: 1279px) and (min-width:1025px) {
+    .header-floor1-right .into a{
+        font-size: 12px;
+    }
+    .header-floor1-right .into>li a{
+        padding: 0 10px;
+    }
+    .Login-in a{
+        font-size: 12px;
+    }
+    .register a{
+        font-size: 12px;
+    }
+    .header-floor1-right .search input{
+        font-size: 12px;
+    }
+    .header-floor1-right .search-box dl dd a{
+        font-size: 12px;
+    }
+    .header-floor2 ul li a span{
+        font-size: 12px;
+    }
+    .headContent-img img{
+        width: 60px;
+        height: 60px;
+    }
+    .headContent-left>div h5{
+        font-size: 14px;
+    }
+
+    .content{
+        width: 100%;
+        padding: 0 10px;
+        box-sizing: border-box;
+    }
+
+    .title {
+        font-size: 24px;
+        /* color: #fff;
+        padding-top: 50px;
+        padding-bottom: 40px;
+        text-align: center; */
+    }
+
+    .mobileHeader{
+        display: none;
+    }
+    .app-nav{
+        display: none;
+    }
+
+    .foot2-content .foot_for_app{
+        display: none;
+    }
+
+    .header-floor1{
+        padding: 0 10px;
+        box-sizing: border-box;
+    }
+}
+@media (max-width: 1024px) and (min-width:769px) {
+    .header-floor1-right .into a{
+        font-size: 12px;
+    }
+    .header-floor1-right .into>li a{
+        padding: 0 10px;
+    }
+    .Login-in a{
+        font-size: 12px;
+    }
+    .register a{
+        font-size: 12px;
+    }
+    .header-floor1-right .search input{
+        font-size: 12px;
+    }
+    .header-floor1-right .search-box dl dd a{
+        font-size: 12px;
+    }
+    .header-floor2 ul li a span{
+        font-size: 12px;
+    }
+    .headContent-img img{
+        width: 60px;
+        height: 60px;
+    }
+    .headContent-left>div h5{
+        font-size: 14px;
+    }
+
+    .content{
+        width: 100%;
+        padding: 0 10px;
+        box-sizing: border-box;
+    }
+
+    .title {
+        font-size: 24px;
+        /* color: #fff;
+        padding-top: 50px;
+        padding-bottom: 40px;
+        text-align: center; */
+    }
+    .mobileHeader{
+        display: none;
+    }
+    .app-nav{
+        display: none;
+    }
+
+    .foot2-content .foot_for_app{
+        display: none;
+    }
+
+    .header-floor1{
+        padding: 0 10px;
+        box-sizing: border-box;
+    }
+
+}
+@media (max-width: 768px) and (min-width:500px) {
+    .header{
+        display: none;
+    }
+    .content{
+        width: 100%;
+        padding: 0 10px;
+        box-sizing: border-box;
+    }
+    .title {
+        font-size: 24px;
+        /* color: #fff;
+        padding-top: 50px;
+        padding-bottom: 40px;
+        text-align: center; */
+    }
+    .foot1{
+        display: none;
+    }
+    .foot2 ul{
+        display: none;
+    }
+    .foot2 .foot_for_app{
+        display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-align-items: center;
+        -moz-align-items: center;
+        -ms-align-items: center;
+        -o-align-items: center;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+    .foot2-content{
+        flex-wrap: wrap;
+        -webkit-justify-content: center;
+        -moz-justify-content: center;
+        -ms-justify-content: center;
+        -o-justify-content: center;
+        justify-content: center;
+    }
+
+    /* 移动端共用导航 */
+    .mobileHeader{
+        display: block;
+    }
+    .app-nav{
+        display: block;
+    }
+	.mobileHeader{
+        position: fixed;
+        background: #FFFFFF;
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 200;		
+    }
+    .mobileHeader-content{
+        height: 50px;
+        display: -webkit-box;      
+        display: -moz-box;         
+        display: -ms-flexbox;      
+        display: -webkit-flex;     
+        display: flex;             
+        -webkit-justify-content: space-between;
+        -moz-justify-content: space-between;
+        -ms-justify-content: space-between;
+        -o-justify-content: space-between;
+        justify-content: space-between;
+        -webkit-align-items: center;
+        -moz-align-items: center;
+        -ms-align-items: center;
+        -o-align-items: center;
+        align-items: center;	
+    }
+    #headSHBtn{
+        width: 36px;
+        height: 34px;
+        margin-right: 10px;
+        background: #333;
+        border-radius:3px; 
+        padding: 5px;
+        box-sizing: border-box;
+      }
+      #headSHBtn img{
+        display: none;
+        width: 100%;
+        height: 100%;
+        border-radius:3px; 
+      }
+    #headSHBtn .active{
+      display: block;
+    }
+    .login-mobile{
+      width: 150px;
+      height: 34px;
+      margin-left: 10px;
+    }
+    .login-mobile img{
+      width: 100%;
+      height: 100%;
+    }
+    .content{
+      width: 100%;
+      overflow: hidden;
+    }
+    .mobileHeader-into{
+      position: relative;
+    }
+    .app-nav{
+      display: block;
+      position: fixed;
+      width: 100%;
+      left: 0;
+      top: -500px;
+      background: #1a1a1a;
+      transition: all ease .5s;
+      z-index: 100;
+      padding: 30px 0 50px 0;
+      box-sizing: border-box;
+    }
+    .app-nav-active{
+      top: 50px;
+    }
+    .app-nav-item{
+
+    }
+    .app-nav-item a{
+      display: block;
+      font-size: 16px;
+      color: #999;
+      text-align: center;
+      line-height: 40px;
+    }
+    .appMask{
+      background: rgba(0,0,0,0.5);
+      position: fixed;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 20;
+      display: none;
+    }
+    .appMask-active{
+      display: block;
+    }
+    /* 移动端共用导航-end */
+    .body{
+        padding-top: 50px;
+        box-sizing: border-box;
+    }    
+
+    .mobileHeader{
+        -moz-box-shadow: 0px 2px 6px rgba(0,0,0,.6);
+        -webkit-box-shadow: 0px 2px 6px rgba(0,0,0,.6);
+        box-shadow: 0px 2px 6px rgba(0,0,0,.6);
+    }
+    .app-nav{
+        -moz-box-shadow: 0px 2px 10px rgba(0,0,0,.8);
+        -webkit-box-shadow: 0px 2px 10px rgba(0,0,0,.8);
+        box-shadow: 0px 2px 10px rgba(0,0,0,.8);        
+    }
+
+    .login-mobile {
+        height: 90%;
+        margin-left: 10px;
+        width: auto;
+    }
+    .login-mobile img{
+        height: 100%;
+        width: auto;
+    }
+    .mobileHeader{
+        background: rgba(37, 43, 58, 1)
+    }
+    #headSHBtn{
+        background: rgba(37, 43, 58, 1)
+    }
+}
+@media (max-width: 499px){
+    .header{
+        display: none;
+    }
+    .content{
+        width: 100%;
+        padding: 0 10px;
+        box-sizing: border-box;
+    }
+    .title {
+        font-size: 24px;
+        /* color: #fff;
+        padding-top: 50px;
+        padding-bottom: 40px;
+        text-align: center; */
+    }
+    .foot1{
+        display: none;
+    }
+    .foot2 ul{
+        display: none;
+    }
+    .foot2 .foot_for_app{
+        display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-align-items: center;
+        -moz-align-items: center;
+        -ms-align-items: center;
+        -o-align-items: center;
+        align-items: center;
+        margin-bottom: 10px;
+        display: none;
+    }
+    .foot2-content{
+        flex-wrap: wrap;
+        -webkit-justify-content: center;
+        -moz-justify-content: center;
+        -ms-justify-content: center;
+        -o-justify-content: center;
+        justify-content: center;
+    }
+    .foot2-content>div{
+        line-height: 16px;
+    }
+    /* 移动端共用导航 */
+    .mobileHeader{
+        display: block;
+    }
+    .app-nav{
+        display: block;
+    }
+	.mobileHeader{
+        position: fixed;
+        background: #FFFFFF;
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 200;		
+    }
+    .mobileHeader-content{
+        height: 50px;
+        display: -webkit-box;      
+        display: -moz-box;         
+        display: -ms-flexbox;      
+        display: -webkit-flex;     
+        display: flex;             
+        -webkit-justify-content: space-between;
+        -moz-justify-content: space-between;
+        -ms-justify-content: space-between;
+        -o-justify-content: space-between;
+        justify-content: space-between;
+        -webkit-align-items: center;
+        -moz-align-items: center;
+        -ms-align-items: center;
+        -o-align-items: center;
+        align-items: center;	
+    }
+    #headSHBtn{
+      width: 36px;
+      height: 34px;
+      margin-right: 10px;
+      background: #333;
+      border-radius:3px; 
+      padding: 5px;
+      box-sizing: border-box;
+    }
+    #headSHBtn img{
+      display: none;
+      width: 100%;
+      height: 100%;
+      border-radius:3px; 
+    }
+    #headSHBtn .active{
+      display: block;
+    }
+    .login-mobile{
+        width: 150px;
+        height: 34px;
+        margin-left: 10px;
+    }
+    .login-mobile img{
+      width: 100%;
+      height: 100%;
+    }
+    .content{
+      width: 100%;
+      overflow: hidden;
+    }
+    .mobileHeader-into{
+      position: relative;
+    }
+    .app-nav{
+      display: block;
+      position: fixed;
+      width: 100%;
+      left: 0;
+      top: -500px;
+      background: #1a1a1a;
+      transition: all ease .5s;
+      z-index: 100;
+      padding: 30px 0 50px 0;
+      box-sizing: border-box;
+    }
+    .app-nav-active{
+      top: 50px;
+    }
+    .app-nav-item{
+
+    }
+    .app-nav-item a{
+      display: block;
+      font-size: 16px;
+      color: #999;
+      text-align: center;
+      line-height: 40px;
+    }
+    .appMask{
+      background: rgba(0,0,0,0.5);
+      position: fixed;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 20;
+      display: none;
+    }
+    .appMask-active{
+      display: block;
+    }
+    /* 移动端共用导航-end */
+    .body{
+        padding-top: 50px;
+        box-sizing: border-box;
+    }
+
+    .mobileHeader{
+        -moz-box-shadow: 0px 2px 6px rgba(0,0,0,.6);
+        -webkit-box-shadow: 0px 2px 6px rgba(0,0,0,.6);
+        box-shadow: 0px 2px 6px rgba(0,0,0,.6);
+    }
+    .app-nav{
+        -moz-box-shadow: 0px 2px 10px rgba(0,0,0,.8);
+        -webkit-box-shadow: 0px 2px 10px rgba(0,0,0,.8);
+        box-shadow: 0px 2px 10px rgba(0,0,0,.8);        
+    }
+
+    .login-mobile {
+        height: 90%;
+        margin-left: 10px;
+        width: auto;
+    }
+    .login-mobile img{
+        height: 100%;
+        width: auto;
+    }
+    .mobileHeader{
+        background: rgba(37, 43, 58, 1)
+    }
+    #headSHBtn{
+        background: rgba(37, 43, 58, 1)
+    }
+}

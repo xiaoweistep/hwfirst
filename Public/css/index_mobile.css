@@ -1,0 +1,715 @@
+@media (max-width: 1279px) and (min-width:1025px) {
+    .banner1{
+        height: 500px;
+    }
+    .banner-pc .swiper-slide>div{
+        width: 80%;
+    }
+    .swiper-button-prev{
+        left: 50px!important;
+    }
+    .swiper-button-next{
+        right: 50px!important;
+    }
+    .banner-pc .swiper-slide>div h4{
+        font-size: 30px;
+    }
+    .banner-pc .swiper-slide>div p{
+        font-size: 20px;
+    }
+    .banner-pc .swiper-slide>div a {
+        padding: 10px 20px;
+        font-size: 12px;
+    }
+
+    .floor1-one li img{
+        margin: 0 0 10px 0;
+    }
+    .floor1-one>div ul li{
+        flex-direction: column;
+        align-items: center;
+    }
+    .floor1-one>div ul li dt{
+        font-size: 18px;
+        line-height: 24px;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .floor1-one>div ul li dd{
+        font-size: 13px;
+    }
+    .floor1-two ul li{
+        width: 32%;
+        margin-right: 2%;
+    }
+    .floor1-two ul li dd p{
+        font-size: 12px;
+    }
+    .floor1-two ul li dd {
+        padding: 10px 20px;
+    }
+    .floor1-two ul li dd:nth-of-type(1){
+        padding: 20px 20px 10px 20px;
+    }
+    .floor1-two ul li dl{
+        padding-bottom: 20px;
+    }
+    .floor1-two ul li dt img{
+        width: 40px;
+        height: 40px;
+    }
+    .floor1-two ul li dt{
+        font-size: 16px;
+        line-height: 50px;
+    }
+    .floor1-two ul li dd h6{
+        font-size: 14px;
+    }
+    .floor2-content .active{
+        height: 500px;
+    }
+    .floor2-content-item-right a{
+        padding: 10px 20px;
+        font-size: 12px;
+    }
+    .floor2-content-item-right p{
+        font-size: 13px;
+    }
+    .floor2-content-item-right h4{
+        font-size: 24px;
+    }
+    .floor2-content-item-right span{
+        margin-bottom: 30px;
+    }
+
+    .floor3-content .floor3-content-item .img{
+        width: 120px;
+        height: 50px;
+    }
+    .floor3-content-item p{
+        font-size: 13px;
+    }
+
+    /* .floor1-one>div ul li{
+        width: 32%;
+        margin-right:2%; 
+    }
+    .floor1-one>div ul li:nth-child(3n){
+        margin-right: 0;
+    }     */
+
+    /* 新增样式 */
+    .products_item_bottom{
+        margin-bottom: initial;
+    }
+    /* 新增样式-end */
+}
+@media (max-width: 1024px) and (min-width:769px) {
+    .banner1{
+        height: 500px;
+    }
+    .banner-pc .swiper-slide>div{
+        width: 80%;
+    }
+    .swiper-button-prev{
+        left: 50px!important;
+    }
+    .swiper-button-next{
+        right: 50px!important;
+    }
+    .banner-pc .swiper-slide>div h4{
+        font-size: 30px;
+    }
+    .banner-pc .swiper-slide>div p{
+        font-size: 20px;
+    }
+    .banner-pc .swiper-slide>div a {
+        padding: 10px 20px;
+        font-size: 12px;
+    }
+
+    .floor1-one li img{
+        margin: 0 0 10px 0;
+    }
+    .floor1-one>div ul li{
+        flex-direction: column;
+        align-items: center;
+    }
+    .floor1-one>div ul li dt{
+        font-size: 18px;
+        line-height: 24px;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .floor1-one>div ul li dd{
+        font-size: 13px;
+    }
+    .floor1-two ul li{
+        width: 32%;
+        margin-right: 2%;
+    }
+    .floor1-two ul li dd p{
+        font-size: 12px;
+    }
+    .floor1-two ul li dd {
+        padding: 10px 20px;
+    }
+    .floor1-two ul li dd:nth-of-type(1){
+        padding: 20px 20px 10px 20px;
+    }
+    .floor1-two ul li dl{
+        padding-bottom: 20px;
+    }
+    .floor1-two ul li dt img{
+        width: 40px;
+        height: 40px;
+    }
+    .floor1-two ul li dt{
+        font-size: 16px;
+        line-height: 50px;
+    }
+    .floor1-two ul li dd h6{
+        font-size: 14px;
+    }
+    .floor2-content .active{
+        height: 500px;
+    }
+    .floor2-content-item-right a{
+        padding: 10px 20px;
+        font-size: 12px;
+    }
+    .floor2-content-item-right p{
+        font-size: 13px;
+    }
+    .floor2-content-item-right h4{
+        font-size: 24px;
+    }
+    .floor2-content-item-right span{
+        margin-bottom: 30px;
+    }
+
+    .floor3-content .floor3-content-item .img{
+        width: 120px;
+        height: 50px;
+    }
+    .floor3-content-item p{
+        font-size: 13px;
+    }
+
+    /* 在上面尺寸上做修改 */
+    .floor2-content-item-right a{
+        margin-bottom: 60px;
+    }
+    .floor2-content .active{
+        height: 450px;
+    }
+    .text-box-right h6{
+        font-size: 14px;
+    }
+    .floor2-content-item-right p{
+        width: 90%;
+    }
+    .text-box .dataNum{
+        font-size: 30px;
+    }
+    .text-box-right p{
+        font-size: 12px;
+    }
+    .news-right .text-box{
+        padding: 15px;
+    }
+    .news-left .text-box{
+        padding: 15px;
+    }
+
+    /* .floor1-one>div ul li{
+        width: 32%;
+        margin-right:2%; 
+    }
+    .floor1-one>div ul li:nth-child(3n){
+        margin-right: 0;
+    }     */
+
+    /* 新增样式 */
+    .products_item_bottom{
+        margin-bottom: initial;
+    }
+    .products_content{
+        display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        flex-wrap: wrap;
+        -webkit-justify-content: space-between;
+        -moz-justify-content: space-between;
+        -ms-justify-content: space-between;
+        -o-justify-content: space-between;
+        justify-content: space-between;
+        /* -webkit-align-items: center;
+        -moz-align-items: center;
+        -ms-align-items: center;
+        -o-align-items: center;
+        align-items: center;		 */
+    }
+    .products_item{
+        width: 49%;
+        margin-right: 0;
+    }
+    /* 新增样式-end */
+}
+@media (max-width: 768px) and (min-width:500px) {
+    .banner1{
+        height: 400px;
+    }
+    .banner-pc .swiper-slide>div{
+        width: 80%;
+    }
+    .swiper-button-prev{
+        left: 30px!important;
+    }
+    .swiper-button-next{
+        right: 30px!important;
+    }
+    .banner-pc .swiper-slide>div h4{
+        font-size: 30px;
+    }
+    .banner-pc .swiper-slide>div p{
+        font-size: 20px;
+    }
+    .banner-pc .swiper-slide>div a {
+        padding: 10px 20px;
+        font-size: 12px;
+    }
+
+    .floor1-one li img{
+        margin: 0 0 10px 0;
+    }
+    .floor1-one>div ul li{
+        flex-direction: column;
+        align-items: center;
+    }
+    .floor1-one>div ul li dt{
+        font-size: 18px;
+        line-height: 24px;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .floor1-one>div ul li dd{
+        font-size: 13px;
+    }
+    .floor1-two ul li{
+        width: 32%;
+        margin-right: 2%;
+    }
+    .floor1-two ul li dd p{
+        font-size: 12px;
+    }
+    .floor1-two ul li dd {
+        padding: 10px 20px;
+    }
+    .floor1-two ul li dd:nth-of-type(1){
+        padding: 20px 20px 10px 20px;
+    }
+    .floor1-two ul li dl{
+        padding-bottom: 20px;
+    }
+    .floor1-two ul li dt img{
+        width: 40px;
+        height: 40px;
+    }
+    .floor1-two ul li dt{
+        font-size: 16px;
+        line-height: 50px;
+    }
+    .floor1-two ul li dd h6{
+        font-size: 14px;
+    }
+    .floor2-content .active{
+        height: 500px;
+    }
+    .floor2-content-item-right a{
+        padding: 10px 20px;
+        font-size: 12px;
+    }
+    .floor2-content-item-right p{
+        font-size: 13px;
+    }
+    .floor2-content-item-right h4{
+        font-size: 24px;
+    }
+    .floor2-content-item-right span{
+        margin-bottom: 30px;
+    }
+
+    .floor3-content .floor3-content-item .img{
+        width: 120px;
+        height: 50px;
+    }
+    .floor3-content-item p{
+        font-size: 13px;
+    }
+
+    .floor2-content-item-right a{
+        margin-bottom: 60px;
+    }
+    .floor2-content .active{
+        height: 450px;
+    }
+    .text-box-right h6{
+        font-size: 14px;
+    }
+    .floor2-content-item-right p{
+        width: 90%;
+    }
+    .text-box .dataNum{
+        font-size: 30px;
+    }
+    .text-box-right p{
+        font-size: 12px;
+    }
+    .news-right .text-box{
+        padding: 15px;
+    }
+    .news-left .text-box{
+        padding: 15px;
+    }
+
+    .floor1-one li img{
+        width: 40px;
+        height: 40px;
+    }
+    .floor1-one>div ul li dt{
+        font-size: 16px;
+    }
+    /* .floor1-two ul{
+        display: -webkit-box;
+        display: -moz8-box;
+        display: -ms-flexbox;
+        display: -o-box;
+        display: box;
+        overflow-x: scroll;
+
+        scrollbar-width: none;
+    }
+    .floor1-two ul li{
+        width: 40%;
+    }
+    .floor1-two ul li:nth-child(3n){
+        margin-right: 2%;
+    }
+    .floor1-two ul::-webkit-scrollbar {
+        display: none;
+    } 	
+    .floor1-two ul::-o-scrollbar {
+        display: none;
+    } 		 */
+    .floor1-two ul{
+        flex-wrap: nowrap;
+    }
+
+    .floor2{
+        display: none;
+    }
+    .floor2_for_app{
+        display: block!important;
+    }
+    .floor2_for_app .floor2-content-item{
+        display: block!important;
+    }
+    .floor2-nav{
+        padding: initial;
+        background: #000;
+    }
+    .floor2-content-item>div{
+        width: 100%;
+    }
+    .floor2-content-item-right{
+        padding: 60px 40px 40px 40px;
+        background: rgba(0, 0, 0, .3)
+    }
+    .floor2_for_app .swiper-button-prev{
+        left: 10px!important;
+        /* width: 25px;
+        height: 25px; */
+        top: 60%;
+    }
+    .floor2_for_app .swiper-button-next{
+        right: 10px!important;
+        /* width: 25px;
+        height: 25px; */
+        top: 60%;
+    }
+    .news-right .text-box{
+        padding: 13px;
+    }
+
+    /* 新增样式 */
+    .products_item_bottom{
+        margin-bottom: initial;
+    }
+    .products_content{
+        display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        flex-wrap: wrap;
+        -webkit-justify-content: space-between;
+        -moz-justify-content: space-between;
+        -ms-justify-content: space-between;
+        -o-justify-content: space-between;
+        justify-content: space-between;
+        /* -webkit-align-items: center;
+        -moz-align-items: center;
+        -ms-align-items: center;
+        -o-align-items: center;
+        align-items: center;		 */
+    }
+    .products_item{
+        width: 49%;
+        margin-right: 0;
+    }
+    /* 新增样式-end */    
+
+}
+@media (max-width: 499px){
+    .banner1{
+        height: 400px;
+    }
+    .banner-pc .swiper-slide>div{
+        width: 80%;
+    }
+    .swiper-button-prev{
+        left: 30px!important;
+    }
+    .swiper-button-next{
+        right: 30px!important;
+    }
+    .banner-pc .swiper-slide>div h4{
+        font-size: 30px;
+    }
+    .banner-pc .swiper-slide>div p{
+        font-size: 20px;
+    }
+    .banner-pc .swiper-slide>div a {
+        padding: 10px 20px;
+        font-size: 12px;
+    }
+
+    .floor1-one li img{
+        margin: 0 0 10px 0;
+    }
+    .floor1-one>div ul li{
+        flex-direction: column;
+        align-items: center;
+    }
+    .floor1-one>div ul li dt{
+        font-size: 18px;
+        line-height: 24px;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .floor1-one>div ul li dd{
+        font-size: 13px;
+    }
+    .floor1-two ul li{
+        width: 32%;
+        margin-right: 2%;
+    }
+    .floor1-two ul li dd p{
+        font-size: 12px;
+    }
+    .floor1-two ul li dd {
+        padding: 10px 20px;
+    }
+    .floor1-two ul li dd:nth-of-type(1){
+        padding: 20px 20px 10px 20px;
+    }
+    .floor1-two ul li dl{
+        padding-bottom: 20px;
+    }
+    .floor1-two ul li dt img{
+        width: 40px;
+        height: 40px;
+    }
+    .floor1-two ul li dt{
+        font-size: 16px;
+        line-height: 50px;
+    }
+    .floor1-two ul li dd h6{
+        font-size: 14px;
+    }
+    .floor2-content .active{
+        height: 500px;
+    }
+    .floor2-content-item-right a{
+        padding: 10px 20px;
+        font-size: 12px;
+    }
+    .floor2-content-item-right p{
+        font-size: 13px;
+    }
+    .floor2-content-item-right h4{
+        font-size: 24px;
+    }
+    .floor2-content-item-right span{
+        margin-bottom: 30px;
+    }
+
+    .floor3-content .floor3-content-item .img{
+        width: 120px;
+        height: 50px;
+    }
+    .floor3-content-item p{
+        font-size: 13px;
+    }
+
+    .floor2-content-item-right a{
+        margin-bottom: 60px;
+    }
+    .floor2-content .active{
+        height: 450px;
+    }
+    .text-box-right h6{
+        font-size: 14px;
+    }
+    .floor2-content-item-right p{
+        width: 100%;
+    }
+    .text-box .dataNum{
+        font-size: 30px;
+    }
+    .text-box-right p{
+        font-size: 12px;
+    }
+    .news-right .text-box{
+        padding: 15px;
+    }
+    .news-left .text-box{
+        padding: 15px;
+    }
+
+    .floor1-one li img{
+        width: 40px;
+        height: 40px;
+    }
+    .floor1-one>div ul li dt{
+        font-size: 16px;
+    }
+    /* .floor1-two ul{
+        display: -webkit-box;
+        display: -moz8-box;
+        display: -ms-flexbox;
+        display: -o-box;
+        display: box;
+        overflow-x: scroll;
+
+        scrollbar-width: none;
+    }
+    .floor1-two ul li{
+        width: 40%;
+    }
+    .floor1-two ul li:nth-child(3n){
+        margin-right: 2%;
+    }
+    .floor1-two ul::-webkit-scrollbar {
+        display: none;
+    } 	
+    .floor1-two ul::-o-scrollbar {
+        display: none;
+    } 		 */
+    .floor1-two ul{
+        flex-wrap: nowrap;
+    }
+
+    .floor2{
+        display: none;
+    }
+    .floor2_for_app{
+        display: block!important;
+    }
+    .floor2_for_app .floor2-content-item{
+        display: block!important;
+    }
+    .floor2-nav{
+        padding: initial;
+        background: #000;
+    }
+    .floor2-content-item>div{
+        width: 100%;
+    }
+    .floor2-content-item-right{
+        padding: 60px 40px 40px 40px;
+        background: rgba(0, 0, 0, .3)
+    }
+    .floor2_for_app .swiper-button-prev{
+        left: 10px!important;
+        /* width: 25px;
+        height: 25px; */
+        top: 60%;
+    }
+    .floor2_for_app .swiper-button-next{
+        right: 10px!important;
+        /* width: 25px;
+        height: 25px; */
+        top: 60%;
+    }
+    .news-right .text-box{
+        padding: 13px;
+    }
+    .floor1-one>div ul{
+        flex-wrap: wrap;
+    }
+    .floor1-one>div ul li{
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+
+    .floor4-content{
+        flex-direction: column;
+    }
+    .floor4-content>div{
+        width: 100%;
+    }
+    .news-right{
+        padding-left: initial;
+    }
+    .banner1{
+        height: 300px;
+    }
+
+
+    /* 新增样式 */
+    .products_item_bottom{
+        margin-bottom: initial;
+    }
+    .products_content{
+        display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        flex-wrap: wrap;
+        -webkit-justify-content: space-between;
+        -moz-justify-content: space-between;
+        -ms-justify-content: space-between;
+        -o-justify-content: space-between;
+        justify-content: space-between;
+        /* -webkit-align-items: center;
+        -moz-align-items: center;
+        -ms-align-items: center;
+        -o-align-items: center;
+        align-items: center;		 */
+    }
+    .products_item{
+        width: 100%;
+        margin-right: 0;
+    }
+    .products_content{
+        padding: 0 20px;
+        box-sizing: border-box;
+    }
+    /* 新增样式-end */    
+}

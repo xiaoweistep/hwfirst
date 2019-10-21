@@ -1,0 +1,112 @@
+@media (max-width: 1279px) and (min-width:1025px) {
+    .left{
+        display: none;
+    }
+    .right{
+        width: 100%
+    }
+    .login_content .right{
+        display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-justify-content: center;
+        -moz-justify-content: center;
+        -ms-justify-content: center;
+        -o-justify-content: center;
+        justify-content: center;
+        -webkit-align-items: center;
+        -moz-align-items: center;
+        -ms-align-items: center;
+        -o-align-items: center;
+        align-items: center;
+    }    
+}
+@media (max-width: 1024px) and (min-width:769px) {
+    .left{
+        display: none;
+    }
+    .right{
+        width: 100%
+    }
+    .login_content .right{
+        display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-justify-content: center;
+        -moz-justify-content: center;
+        -ms-justify-content: center;
+        -o-justify-content: center;
+        justify-content: center;
+        -webkit-align-items: center;
+        -moz-align-items: center;
+        -ms-align-items: center;
+        -o-align-items: center;
+        align-items: center;
+    }    
+}
+@media (max-width: 768px) and (min-width:500px) {
+    .left{
+        display: none;
+    }
+    .right{
+        width: 100%
+    }
+    .login_content .right{
+        display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-justify-content: center;
+        -moz-justify-content: center;
+        -ms-justify-content: center;
+        -o-justify-content: center;
+        justify-content: center;
+        -webkit-align-items: center;
+        -moz-align-items: center;
+        -ms-align-items: center;
+        -o-align-items: center;
+        align-items: center;
+    }    
+    .login_content{
+        padding-top: 50px;
+    }
+}
+@media (max-width: 499px){
+    .left{
+        display: none;
+    }
+    .right{
+        width: 100%
+    }
+    .login_content .right{
+        display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-justify-content: center;
+        -moz-justify-content: center;
+        -ms-justify-content: center;
+        -o-justify-content: center;
+        justify-content: center;
+        -webkit-align-items: center;
+        -moz-align-items: center;
+        -ms-align-items: center;
+        -o-align-items: center;
+        align-items: center;
+    }    
+    .login_content{
+        padding-top: 50px;
+    }
+    .login_about_floor3{
+        flex-wrap: wrap;
+    }
+    .login_about_floor3>div:nth-of-type(1){
+        margin-right: 10px;
+    }
+}
